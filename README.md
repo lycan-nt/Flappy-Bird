@@ -7,4 +7,4 @@ Projeto desenvolvido para praticar JavaScript/Css/Html e manipulação da dom
   
 ###Imagens
 
-    ![Imagem-Flappy](https://github.com/lycan-nt/Flappy-Bird/blob/master/imgs/Capturar.PNG)
+    ![img-DevList](https://github.com/lycan-nt/DevList/blob/master/img/0.jpeg)
